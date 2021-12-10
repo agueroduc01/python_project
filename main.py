@@ -10,7 +10,7 @@ from messageBox import MBox
 
 
 class MainWindow:
-    # day la test git push
+    # day la test git pushh
     def __init__(self):
 
         self.main_win = QMainWindow()
